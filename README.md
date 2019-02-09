@@ -3,7 +3,7 @@
 
 ### Table of Contents
 * [Pre-requisities](#pre-requisites)
-* [The Basics - Common Terraform Commands](#the-basics-common-terraform-commands)
+* [The Basics - Common Terraform Commands](#the-basics---comomon-terraform-commands)
 
 ---
 
