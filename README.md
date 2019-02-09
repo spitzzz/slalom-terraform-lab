@@ -3,7 +3,7 @@
 
 ### Table of Contents
 * [Pre-requisities](#pre-requisites)
-* [The Basics - Common Terraform Commands](#the-basics)
+* [The Basics - Common Terraform Commands](#the-basics-common-terraform-commands)
 
 ---
 
@@ -15,7 +15,7 @@ In order to complete this lab you will need the following tools installed and co
 
 ---
 
-### The Basics
+### The Basics - Comomon Terraform Commands
 Terraform provides many different commands to run for various purposes, but when running Terraform you will generally primarily find yourself using these 3 commands.
 
 The First Command:
