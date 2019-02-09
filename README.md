@@ -16,7 +16,7 @@ In order to complete this lab you will need the following tools installed and co
 ---
 
 ### The Basics
-When running Terraform you will generally primarily find yourself using 3 commands.
+Terraform provides many different commands to run for various purposes, but when running Terraform you will generally primarily find yourself using these 3 commands.
 
 The First Command:
 ```
@@ -28,10 +28,17 @@ The Second Command:
 ```
 terraform plan
 ```
+The purpose of the terraform plan command is to see a summary of the changes that will occur uppon running terraform.
 
 The Third Command:
 ```
 terraform apply
+```
+The purpose of the terraform apply command is to execute terraform, this command will run terraform and apply the configuration from your local terraform files to AWS. It is important to run a terraform plan before running this command to avoid accidental changes to existing resources you previously created with terraform.
+
+For a full list of Terraform commannds that are available you can check their documentation [here](https://www.terraform.io/docs/commands/init.html), or run the following command:
+```
+terraform --help
 ```
 
 ---
