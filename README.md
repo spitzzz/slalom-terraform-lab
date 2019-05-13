@@ -1,5 +1,4 @@
 # Terraform 101
-## A Slalom Terraform Lab
 
 ### Navigation
 * [Part 1 - Executing "raw" Terraform](/Part-1)
